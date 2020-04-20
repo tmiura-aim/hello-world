@@ -1,2 +1,2 @@
 # hello-world
-hoge
+Git チュートリアル
